@@ -5,8 +5,7 @@ Living Earth Education provides training in the characterisation, mapping, monit
 
 To run these notebook, **launch a GitHub CodeSpace** cloud instance by clicking the badge below. The session will contain all the necessary python libraries and the notebooks and code in this repo.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cbur24/aberystwyth_training_material?quickstart=1)
-
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/rmlucas/livingearth_education?quickstart=1)
 
 > [!TIP]
 > Allow CodeSpaces a few minutes to bootup and for all python libraries to install. 
