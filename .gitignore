@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.tif
+*.xml
+*.nc
+*.gif
+*.csv
+*.json
+*.joblib
+*.db
+__pycache__
